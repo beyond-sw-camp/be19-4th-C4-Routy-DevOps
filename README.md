@@ -645,6 +645,12 @@ pipeline {
     <img width="1788" height="279" alt="image" src="https://github.com/user-attachments/assets/291fd878-4d67-4ef6-9f64-627517f72547" />
   </div>
 </details>
+<details>
+  <summary>Jenkins</summary>
+  <div align="center">
+    <img width="1300" height="682" alt="image" src="https://github.com/user-attachments/assets/2ba125b8-afdb-40ce-a505-0ba8fdafa481" />
+  </div>
+</details>
 
 <br>
 
