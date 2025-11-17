@@ -520,7 +520,7 @@
 
 ## 📱 CI/CD 파이프라인
 <details>
-<summary>젠킨스 pipeline 스크립트</summary>
+<summary>Jenkins Pipeline 스크립트</summary>
 <div>
 
 ```
@@ -649,7 +649,8 @@ pipeline {
 <details>
   <summary>ArgoCD</summary>
   <div align="center">
-    <img width="1788" height="279" alt="image" src="https://github.com/user-attachments/assets/291fd878-4d67-4ef6-9f64-627517f72547" />
+    <img width="1009" height="148" alt="스크린샷 2025-11-17 오전 10 05 26" src="https://github.com/user-attachments/assets/62548539-b3e3-4d5c-8fc3-9a29113f715b" />
+
   </div>
 </details>
 
