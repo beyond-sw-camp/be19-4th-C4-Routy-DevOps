@@ -170,14 +170,15 @@
 
 ## 🏗️ DDD
 <div align="center">
-   <img width="729" height="669" alt="스크린샷 2025-11-17 오전 3 35 11" src="https://github.com/user-attachments/assets/5dc00b1f-a33a-475a-8a17-231d2e641ea2" />
+  <img width="396" height="376" alt="스크린샷 2025-11-17 오전 11 38 00" src="https://github.com/user-attachments/assets/83ecbd9c-ec24-4b45-a4b5-f4ba6f1e16a0" />
+
 </div>
 
 <br>
 
 ## 🧩 논리 모델링
 <div align="center">
-  <img width="674" height="693" alt="image" src="https://github.com/user-attachments/assets/6044bca4-620c-4869-98cc-9f22fd0c32a1" />
+  <img width="474" height="493" alt="image" src="https://github.com/user-attachments/assets/6044bca4-620c-4869-98cc-9f22fd0c32a1" />
 
 </div>
 
