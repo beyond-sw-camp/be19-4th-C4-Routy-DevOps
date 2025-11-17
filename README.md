@@ -1,5 +1,4 @@
-# ⏱️ Routy — 국내 여행 일정 관리 플랫폼 <img width="100" height="100" style="margin-bottom: -100px;" alt="chatbot2 1" src="https://github.com/user-attachments/assets/9dc29da4-ad78-4ef9-ac4d-2af1635a609e" />
-
+# ⏱️ Routy — 국내 여행 일정 관리 플랫폼 
 <div align="center">
 <img width="1512" height="444" alt="스크린샷 2025-11-17 오전 2 11 36" src="https://github.com/user-attachments/assets/5356d6d8-268c-4e76-a9b3-751e89c0a434" />
 
