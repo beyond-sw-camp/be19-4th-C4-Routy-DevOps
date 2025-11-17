@@ -190,7 +190,8 @@
 
 ## 🖼️ 와이어 프레임
   <div align="center">
-  <img width="1816" height="782" alt="피그마 UI" src="https://github.com/user-attachments/assets/bb08ad4f-3e5f-4068-86ef-9e43e377b4bf" /> </div>
+    <img width="1033" height="719" alt="스크린샷 2025-11-17 오전 11 28 39" src="https://github.com/user-attachments/assets/53f56443-d333-4485-9885-6fd8d58d1d12" />
+ </div>
 
 <br>
 
